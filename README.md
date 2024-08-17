@@ -1,4 +1,4 @@
-                                                              💊🩺**DRUG RECOMMENDATION SYSTEM USING NLP AND ML**🩺💊
+                                                            **💊🩺**DRUG RECOMMENDATION SYSTEM USING NLP AND ML**🩺💊**
 A drug recommendation system is a technological solution that helps doctors prescribe the right drugs to patients based on their demographics, history of illness, symptoms, and drug efficacy, among other things.
 The system analyses massive datasets, including patient data, medication profiles, clinical research, and drug-drug interactions, among others, by using sophisticated algorithms and methodologies. 
 This innovative approach analyses user sentiment and emotions in text data by using big data and sophisticated analytics. 
@@ -22,7 +22,7 @@ the highest probability as the predicted rating for the review. Within drug reco
 reviews as either positive or negative, relying on their associated ratings. This capability significantly enhances the system's accuracy in delivering personalized and precise medication recommendations, aligning with
 individual preferences and requirements.
 
-for more reference: 
+for more info: 
 https://www.ijcrt.org/papers/IJCRT2403889.pdf
 
 
